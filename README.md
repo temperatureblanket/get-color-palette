@@ -1,5 +1,7 @@
 
-# Color Thief
+# Get Color Palette
+
+Fork of [Color Thief](https://github.com/lokesh/color-thief) v2.4.0, with the only difference being increasing the maximum number of colors in a palette from 20 to 50.
 
 Grab the color palette from an image using just Javascript.Works in the browser and in Node.
 
